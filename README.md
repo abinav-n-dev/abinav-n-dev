@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning Web Developement and programign in C++
+Learning Web Developement and Programming in C++
 
 
 ## 🌐 Socials:
