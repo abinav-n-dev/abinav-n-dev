@@ -1,30 +1,18 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Abinav;B.Tech+CSE+Student;C+%7C+C%2B%2B+%7C+JS;Learning+DSA+in+C%2B%2B" alt="Typing SVG" />
-</p>
+# 💫 About Me:
+Learning Web Developement and programign in C++
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abinav.aur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abinavn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abinav_n_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abinav.nechikattil@gmail.com) 
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abinav-n-dev&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinav-n-dev&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abinav-n-dev&theme=radical" />
-</p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abinav-n-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=abinav-n-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abinav-n-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=abinav-n-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abinavn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abinav4707@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
