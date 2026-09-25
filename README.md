@@ -1,6 +1,6 @@
-<h1 align="center">Abinav</h1>
-
-<p align="center">B.Tech CSE @ Lovely Professional University</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Abinav;B.Tech+CSE+Student;C+%7C+C%2B%2B+%7C+JS;Learning+DSA+in+C%2B%2B" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
